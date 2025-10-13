@@ -1,14 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
 
+let name = "Subash";
 function App() {
   return (
     <>
-    <nav>
-      <li>Home</li>
-      <li>About</li>
-      <li>Contact</li>
-    </nav>
+   abcdef
     </>
   
   );
